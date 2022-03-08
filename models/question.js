@@ -1,3 +1,5 @@
+//Database model of question
+
 const mongoose = require("mongoose");
 //schema for question
 const questionSchema = new mongoose.Schema(
