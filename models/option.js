@@ -1,4 +1,4 @@
-//Database model of question
+//Database model of option
 
 const mongoose = require("mongoose");
 //schema of options
