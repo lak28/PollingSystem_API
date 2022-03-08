@@ -11,7 +11,9 @@ Features �
 - View a question with it’s options and all the votes given to it
 
 Server runs on http://localhost:3000
+
 Routes:-
+
 1 To create a question
 -> request(Post Request) http://localhost:3000/questions/create
 (which will create question with TITLE along contained options ARRAY)
