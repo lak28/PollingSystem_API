@@ -1,3 +1,5 @@
+//Database model of question
+
 const mongoose = require("mongoose");
 //schema of options
 const optionSchema = new mongoose.Schema(
