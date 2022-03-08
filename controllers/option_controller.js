@@ -1,3 +1,5 @@
+//controller file to have functions to control options
+
 const Questions = require("../models/question");
 const Options = require("../models/option");
 //function to add vote to option
