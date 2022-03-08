@@ -1,3 +1,5 @@
+//Controller file to have functions to control questions
+
 const Questions = require("../models/question");
 const Options = require("../models/option");
 //for creating questions
