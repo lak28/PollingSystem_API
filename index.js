@@ -11,10 +11,10 @@ app.use('/',require('./routes/index'));
 
 app.listen(port,function(error){
     if(error) {
-        console.log(`Error in running server ${error}`);
+        console.log(`Error in running server`);
         return;
     }
-    console.log(`Server is running on port ${port}`);
+    console.log(`Server is running on port 3000`);
 });
 
 
