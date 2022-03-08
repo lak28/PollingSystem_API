@@ -30,11 +30,11 @@ Routes:-
 ->request(get request) http://localhost:3000/questions/:id
 
 5 To vote a option for specific Question
-->request(get request) http://localhost:8000/options/:id/add_vote
+->request(get request) http://localhost:3000/options/:id/add_vote
 (which will vote a OPTION for specific QUESTION)
 
 6 To delete a option
-->request(get request) http://localhost:8000/options/:id/delete
+->request(get request) http://localhost:3000/options/:id/delete
 (which will delete a OPTION for specific QUESTION)
 
 
