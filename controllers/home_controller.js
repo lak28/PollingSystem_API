@@ -1,3 +1,5 @@
+//Controller File to Control main view
+
 const Questions = require("../models/question");
 const Options = require("../models/option");
 
