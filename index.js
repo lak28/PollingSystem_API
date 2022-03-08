@@ -1,6 +1,8 @@
 //Main server file
 const express = require('express');
-const app = express();const port = 3000;
+const app = express();
+
+var port = process.env.PORT ||3000;
 
 const db = require('./config/mongoose');
 
